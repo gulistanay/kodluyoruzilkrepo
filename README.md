@@ -1,3 +1,8 @@
+# 28.07.2021
+Html Bölüm Sonu Çalışması 2 eklendi. (index.html, contact.html, about-us.html dosyaları)
+
+
+
 # kodluyoruzilkrepo
 Bu repo [Kodluyoruz](kodluyoruz.org) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
